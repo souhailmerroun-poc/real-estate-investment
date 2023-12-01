@@ -4,7 +4,7 @@ This repository offers two dynamic Streamlit applications that are essential too
 
 https://salary-saving-breakdown.streamlit.app/
 
-https://loan-repayment-breakdown.streamlit.app/
+https://loan-repayment-breakdown-3.streamlit.app/
 
 ## Salary Saving Breakdown App
 
