@@ -2,7 +2,7 @@
 
 This repository offers two dynamic Streamlit applications that are essential tools for financial planning: one for managing loan repayments and another for effective salary allocation and savings projection.
 
-https://salary-saving-breakdown.streamlit.app/
+https://salary-saving-breakdown-2.streamlit.app/
 
 https://loan-repayment-breakdown-3.streamlit.app/
 
