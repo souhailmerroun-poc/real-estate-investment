@@ -4,7 +4,11 @@ This repository offers two dynamic Streamlit applications that are essential too
 
 https://salary-saving-breakdown-2.streamlit.app/
 
+<img width="596" alt="image" src="https://github.com/souhailmerroun-poc/real-estate-investment/assets/8895242/e4a8771f-06d1-4f35-83c1-01f8a0f84fc1">
+
 https://loan-repayment-breakdown-3.streamlit.app/
+
+<img width="455" alt="image" src="https://github.com/souhailmerroun-poc/real-estate-investment/assets/8895242/ecb1b32d-15fd-4da3-b29f-b252a0921dda">
 
 ## Salary Saving Breakdown App
 
